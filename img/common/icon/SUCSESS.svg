@@ -1,0 +1,27 @@
+<svg id="グループ_57" data-name="グループ 57" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="155.867" height="179.977" viewBox="0 0 155.867 179.977">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_34" data-name="長方形 34" width="155.867" height="179.977" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="長方形_32" data-name="長方形 32" width="77.934" height="179.977" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="グループ_56" data-name="グループ 56" clip-path="url(#clip-path)">
+    <path id="パス_14" data-name="パス 14" d="M77.933,0,0,45v89.985l77.933,45,77.934-45V45Z" transform="translate(0)" fill="#004990"/>
+    <path id="パス_15" data-name="パス 15" d="M7.172,49.841,79.151,8.283l71.979,41.558v83.11L79.151,174.51,7.172,132.951Z" transform="translate(-1.218 -1.407)" fill="#e7a228"/>
+    <path id="パス_16" data-name="パス 16" d="M9.052,51.108,79.474,10.449,149.9,51.108v81.312l-70.421,40.66L9.052,132.419Z" transform="translate(-1.538 -1.775)" fill="#004990"/>
+    <g id="グループ_55" data-name="グループ 55">
+      <g id="グループ_54" data-name="グループ 54" clip-path="url(#clip-path)">
+        <g id="グループ_53" data-name="グループ 53" transform="translate(77.933)" opacity="0.3" style="mix-blend-mode: screen;isolation: isolate">
+          <g id="グループ_52" data-name="グループ 52">
+            <g id="グループ_51" data-name="グループ 51" clip-path="url(#clip-path-3)">
+              <path id="パス_17" data-name="パス 17" d="M93.882,0V179.978l77.934-45V45Z" transform="translate(-93.882 0)" fill="#334045"/>
+            </g>
+          </g>
+        </g>
+        <path id="パス_18" data-name="パス 18" d="M59.406,96.2s-3.029,15.9-16.66,20.447c18.932,3.786,24.234,5.3,37.864,16.66,0,0,27.262-44.679,56.8-53.009-37.106,4.543-61.339,30.291-61.339,30.291Z" transform="translate(-7.262 -13.642)" fill="#e7a228"/>
+      </g>
+    </g>
+  </g>
+</svg>

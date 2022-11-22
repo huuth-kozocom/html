@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="155.933" height="180.054" viewBox="0 0 155.933 180.054">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_31" data-name="長方形 31" width="155.933" height="180.054" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="長方形_29" data-name="長方形 29" width="77.967" height="180.054" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="グループ_50" data-name="グループ 50" transform="translate(0)">
+    <g id="グループ_49" data-name="グループ 49" transform="translate(0)" clip-path="url(#clip-path)">
+      <path id="パス_9" data-name="パス 9" d="M77.966,0,0,45.016v90.023l77.966,45.016,77.967-45.016V45.016Z" transform="translate(0)" fill="#870000"/>
+      <path id="パス_10" data-name="パス 10" d="M7.172,49.859,79.182,8.283l72.01,41.576V133l-72.01,41.577L7.172,133Z" transform="translate(-1.216 -1.404)" fill="#e7a228"/>
+      <path id="パス_11" data-name="パス 11" d="M9.052,51.125,79.5,10.449l70.451,40.676v81.346L79.5,173.149,9.052,132.472Z" transform="translate(-1.535 -1.771)" fill="#870000"/>
+      <g id="グループ_48" data-name="グループ 48">
+        <g id="グループ_47" data-name="グループ 47" clip-path="url(#clip-path)">
+          <g id="グループ_46" data-name="グループ 46" transform="translate(77.966)" opacity="0.3" style="mix-blend-mode: screen;isolation: isolate">
+            <g id="グループ_45" data-name="グループ 45">
+              <g id="グループ_44" data-name="グループ 44" clip-path="url(#clip-path-3)">
+                <path id="パス_12" data-name="パス 12" d="M93.882,0V180.055l77.967-45.016V45.016Z" transform="translate(-93.882 0)" fill="#334045"/>
+              </g>
+            </g>
+          </g>
+          <path id="パス_13" data-name="パス 13" d="M83.526,138.159a11.859,11.859,0,0,1-3.2-8.432,11.673,11.673,0,0,1,3.2-8.378,10.6,10.6,0,0,1,8-3.363,10.723,10.723,0,0,1,8.111,3.363,11.67,11.67,0,0,1,3.2,8.378,11.856,11.856,0,0,1-3.2,8.432,10.643,10.643,0,0,1-8.111,3.416,10.519,10.519,0,0,1-8-3.416m1.921-26.9L82.673,75.19l-.64-16.971h19.1L100.5,75.19l-2.775,36.074Z" transform="translate(-13.617 -9.87)" fill="#e7a228"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
